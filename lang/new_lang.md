@@ -50,19 +50,19 @@ Nouns and Adjectives are declined using the same declensions. Base nouns should 
 * Plural - Many things.
 
 
-| Case                    | Singular | Dual | Paucal | Plural |
-|:----------------------- |:--------:|:----:|:------:|:------:|
-| **Nominative**          |    /     |  -k  |  -ka   |  -ki   |
-| **Accusative**          |    -v    | -ve  |  -va   |  -vi   |
-| **Genitive**            |    -m    | -me  |  -ma   |  -mi   |
-| **Dative**              |    -n    | -ne  |  -na   |  -ni   |
-| **Instrumental**        |    -d    | -de  |  -da   |  -di   |
-| **Locative**            |    -t    | -te  |  -ta   |  -ti   |
-| **Ablative**            |    -s    | -se  |  -sa   |  -si   |
-| **Lative**              |    -l    | -le  |  -la   |  -li   |
-| **Ablative Temporal**   |   -su    | -so  |   <-   |   <-   |
+|          Case           | Singular | Dual | Paucal | Plural |
+|:-----------------------:|:--------:|:----:|:------:|:------:|
+|     **Nominative**      |    /     |  -k  |  -ka   |  -ki   |
+|     **Accusative**      |    -v    | -ve  |  -va   |  -vi   |
+|      **Genitive**       |    -m    | -me  |  -ma   |  -mi   |
+|       **Dative**        |    -n    | -ne  |  -na   |  -ni   |
+|    **Instrumental**     |    -d    | -de  |  -da   |  -di   |
+|      **Locative**       |    -t    | -te  |  -ta   |  -ti   |
+|      **Ablative**       |    -s    | -se  |  -sa   |  -si   |
+|       **Lative**        |    -l    | -le  |  -la   |  -li   |
+|  **Ablative Temporal**  |   -su    | -so  |   <-   |   <-   |
 | **Accusative Temporal** |   -vu    | -vo  |   <-   |   <-   |
-| **Vocative**            |    -r    | -re  |  -ra   |  -ri   |
+|      **Vocative**       |    -r    | -re  |  -ra   |  -ri   |
 
 #### Nouns
 person - ha
@@ -73,62 +73,23 @@ house - me
 great - 
 
 ### Pronouns
-Pronouns will have distinctions made between Singular, Dual, Paucal, and Plural. There will also be distinctions made between Inclusive and Exclusive 1st person plural. Pronouns are also declined differently than nouns, unless they are in the Oblique case, in which they can be further declined using the noun declension.
+Pronouns will have distinctions made between Singular, Dual, Paucal, and Plural. There will also be distinctions made between Inclusive and Exclusive 1st person plural. Pronouns are declined in the same way as nouns, but are only declined in singular, since they are already decline for Number here.
 
-| Person    | Declension     |    Number    |          |            |            |
-|:--------- |:-------------- |:------------:|:--------:|:----------:|:----------:|
-|           |                | **singular** | **dual** | **paucal** | **plural** |
-| **1INCL** | **Nominative** |      /       |          |            |            |
-|           | **Accusative** |      /       |          |            |            |
-|           | **Genitive**   |      /       |          |            |            |
-|           | **Dative**     |      /       |          |            |            |
-|           | **Oblique**    |      /       |          |            |            |
-|           | **Vocative**   |      /       |          |            |            |
-| **1EXCL** | **Nominative** |      um      |          |            |            |
-|           | **Accusative** |      mu      |          |            |            |
-|           | **Genitive**   |      me      |          |            |            |
-|           | **Dative**     |      mi      |          |            |            |
-|           | **Oblique**    |      me      |          |            |            |
-|           | **Vocative**   |              |          |            |            |
-| **1MAS**  | **Nominative** |              |          |            |            |
-|           | **Accusative** |              |          |            |            |
-|           | **Genitive**   |              |          |            |            |
-|           | **Dative**     |              |          |            |            |
-|           | **Oblique**    |              |          |            |            |
-|           | **Vocative**   |              |          |            |            |
-| **1FEM**  | **Nominative** |              |          |            |            |
-|           | **Accusative** |              |          |            |            |
-|           | **Genitive**   |              |          |            |            |
-|           | **Dative**     |              |          |            |            |
-|           | **Oblique**    |              |          |            |            |
-|           | **Vocative**   |              |          |            |            |
-| **2**     | **Nominative** |              |          |            |            |
-|           | **Accusative** |              |          |            |            |
-|           | **Genitive**   |              |          |            |            |
-|           | **Dative**     |              |          |            |            |
-|           | **Oblique**    |              |          |            |            |
-|           | **Vocative**   |              |          |            |            |
-| **3EPI**  | **Nominative** |              |          |            |            |
-|           | **Accusative** |              |          |            |            |
-|           | **Genitive**   |              |          |            |            |
-|           | **Dative**     |              |          |            |            |
-|           | **Oblique**    |              |          |            |            |
-|           | **Vocative**   |              |          |            |            |
-| **3NEU**  | **Nominative** |              |          |            |            |
-|           | **Accusative** |              |          |            |            |
-|           | **Genitive**   |              |          |            |            |
-|           | **Dative**     |              |          |            |            |
-|           | **Oblique**    |              |          |            |            |
-|           | **Vocative**   |              |          |            |            |
-| **3MAS**  | **Nominative** |              |          |            |            |
-|           | **Accusative** |              |          |            |            |
-|           | **Genitive**   |              |          |            |            |
-|           | **Dative**     |              |          |            |            |
-|           | **Oblique**    |              |          |            |            |
-|           | **Vocative**   |              |          |            |            |
-| **3FEM**  | **Nominative** |              |          |            |            |
-|           | **Accusative** |              |          |            |            |
-|           | **Genitive**   |              |          |            |            |
-|           | **Dative**     |              |          |            |            |
-|           | **Oblique**    |              |          |            |            |
-|           | **Vocative**   |              |          |            |            |
+|    Person    |    Number    | *incl/excl* |            |            |
+|:------------:|:------------:|:-----------:|:----------:|:----------:|
+|              | **singular** |  **dual**   | **paucal** | **plural** |
+|  **1INCL**   |              |     uno     |    uko     |    alo     |
+| **1 (EXCL)** |     umi      |     udo     |    ano     |    ala     |
+|   **1MAS**   |     ami      |   ano/ado   |  ako/anno  | allo/alla  |
+|   **1FEM**   |     emi      |   eno/edo   |  eko/enno  |  elo/ela   |
+|              |              |             |            |            |
+|              |              |             |            |            |
+|   **2FOR**   |     ale      |     ane     |    ade     |    ale     |
+|   **2INF**   |      pe      |    peno     |    pedo    |    pelo    |
+|              |              |             |            |            |
+|              |              |             |            |            |
+|   **3EPI**   |      me      |     de      |     ne     |     le     |
+|   **3NEU**   |      my      |     dy      |     ny     |     ly     |
+|   **3MAS**   |     ame      |    adde     |    anne    |    alle    |
+|   **3FEM**   |     eme      |     ede     |    ene     |    ele     |
+
