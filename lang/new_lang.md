@@ -111,17 +111,17 @@ Verbs generally end in vowels.
 | **Active**  |     |                   |   *I hear*   |   *I will hear*   |   *I was hearing*   | *I had heard* |     |   *I may hear*   |   *I might hear*   |
 |             |     |      *1SG I*      |     -ven     |       -vem        |        -ver         |     -ved      |     |       -va        |        -vu         |
 |             |     |   *2SG you sg.*   |     -len     |       -lem        |        -ler         |     -led      |     |       -la        |        -lu         |
-|             |     | *3SG he, she, it* |      -       |         -         |          -          |       -       |     |        -         |         -          |
-|             |     |  *1DUI we incl.*  |      -       |         -         |          -          |       -       |     |        -         |         -          |
-|             |     |  *1DUE we excl.*  |      -       |         -         |          -          |       -       |     |        -         |         -          |
-|             |     |   *2DU you du.*   |      -       |         -         |          -          |       -       |     |        -         |         -          |
-|             |     |    *3DUE they*    |      -       |         -         |          -          |       -       |     |        -         |         -          |
-|             |     |    *3DUN they*    |      -       |         -         |          -          |       -       |     |        -         |         -          |
-|             |     | *1PAUI we incl.*  |      -       |         -         |          -          |       -       |     |        -         |         -          |
-|             |     | *1PAUE we excl.*  |      -       |         -         |          -          |       -       |     |        -         |         -          |
-|             |     |  *2PAUL you pl.*  |      -       |         -         |          -          |       -       |     |        -         |         -          |
-|             |     |   *3PAUE they*    |      -       |         -         |          -          |       -       |     |        -         |         -          |
-|             |     |   *3PAUN they*    |      -       |         -         |          -          |       -       |     |        -         |         -          |
+|             |     | *3SG he, she, it* |     -men     |       -mem        |        -mer         |     -med      |     |       -ma        |        -mu         |
+|             |     |  *1DUI we incl.*  |     -non     |       -nom        |        -nor         |     -nod      |     |       -nal       |        -nul        |
+|             |     |  *1DUE we excl.*  |     -nan     |       -nam        |        -nar         |     -nad      |     |       -nav       |        -nuv        |
+|             |     |   *2DU you du.*   |     -von     |       -vom        |        -vor         |     -vod      |     |       -val       |        -vul        |
+|             |     |    *3DUE they*    |     -don     |       -dom        |        -dor         |     -dod      |     |       -dal       |        -dul        |
+|             |     |    *3DUN they*    |     -dan     |       -dam        |        -dar         |     -dad      |     |       -dav       |        -duv        |
+|             |     | *1PAUI we incl.*  |     -kun     |       -kum        |        -kur         |     -kud      |     |       -kuv       |        -kav        |
+|             |     | *1PAUE we excl.*  |     -kin     |       -kim        |        -kir         |     -kid      |     |       -kiv       |        -kov        |
+|             |     |  *2PAU you pl.*   |     -dun     |       -dum        |        -dur         |     -dud      |     |       -duv       |        -dav        |
+|             |     |   *3PAUE they*    |     -nun     |       -num        |        -nur         |     -nud      |     |       -nuv       |        -nav        |
+|             |     |   *3PAUN they*    |     -nin     |       -nim        |        -nir         |     -nid      |     |       -niv       |        -nov        |
 |             |     |  *1PLI we incl.*  |      -       |         -         |          -          |       -       |     |        -         |         -          |
 |             |     |  *1PLE we excl.*  |      -       |         -         |          -          |       -       |     |        -         |         -          |
 |             |     |   *2PL you pl.*   |      -       |         -         |          -          |       -       |     |        -         |         -          |
@@ -138,7 +138,7 @@ Verbs generally end in vowels.
 |             |     |    *3DUN they*    |      -       |         -         |          -          |       -       |     |        -         |         -          |
 |             |     | *1PAUI we incl.*  |      -       |         -         |          -          |       -       |     |        -         |         -          |
 |             |     | *1PAUE we excl.*  |      -       |         -         |          -          |       -       |     |        -         |         -          |
-|             |     |  *2PAUL you pl.*  |      -       |         -         |          -          |       -       |     |        -         |         -          |
+|             |     |  *2PAU you pl.*   |      -       |         -         |          -          |       -       |     |        -         |         -          |
 |             |     |   *3PAUE they*    |      -       |         -         |          -          |       -       |     |        -         |         -          |
 |             |     |   *3PAUN they*    |      -       |         -         |          -          |       -       |     |        -         |         -          |
 |             |     |  *1PLI we incl.*  |      -       |         -         |          -          |       -       |     |        -         |         -          |
