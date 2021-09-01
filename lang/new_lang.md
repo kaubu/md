@@ -103,25 +103,26 @@ My great houses - umim alk mek (lit. 1sg-GEN great-PL house-NOM-PL)
 
 ### Verbs
 #### Conjugation
-|             |     |        |  Indicative  |                   |                     |               |     |   Subjunctive    |                    |
-|:-----------:| --- |:------:|:------------:|:-----------------:|:-------------------:|:-------------:|:---:|:----------------:|:------------------:|
-|             |     |        | **Present**  |    **Future**     |    **Imperfect**    |  **Perfect**  |     |   **Present**    |   **Imperfect**    |
-| **Active**  |     |        |   *I hear*   |   *I will hear*   |   *I was hearing*   | *I had heard* |     |   *I may hear*   |   *I might hear*   |
-|             |     | *1SG*  |              |                   |                     |               |     |                  |                    |
-|             |     | *2SG*  |              |                   |                     |               |     |                  |                    |
-|             |     | *3SG*  |              |                   |                     |               |     |                  |                    |
-|             |     | *1PLI* |              |                   |                     |               |     |                  |                    |
-|             |     | *1PLE* |              |                   |                     |               |     |                  |                    |
-|             |     | *2PL*  |              |                   |                     |               |     |                  |                    |
-|             |     | *3PLE* |              |                   |                     |               |     |                  |                    |
-|             |     | *3PLN* |              |                   |                     |               |     |                  |                    |
-| **Passive** |     |        | *I am heard* | *I will be heard* | *I was being heard* | *I was heard* |     | *I may be heard* | *I might be heard* |
-|             |     | *1SG*  |              |                   |                     |               |     |                  |                    |
-|             |     | *2SG*  |              |                   |                     |               |     |                  |                    |
-|             |     | *3SG*  |              |                   |                     |               |     |                  |                    |
-|             |     | *1PLI* |              |                   |                     |               |     |                  |                    |
-|             |     | *1PLE* |              |                   |                     |               |     |                  |                    |
-|             |     | *2PL*  |              |                   |                     |               |     |                  |                    |
-|             |     | *3PL*  |              |                   |                     |               |     |                  |                    |
+|             |     |                   |  Indicative  |                   |                     |               |     |   Subjunctive    |                    |
+|:-----------:| --- |:-----------------:|:------------:|:-----------------:|:-------------------:|:-------------:|:---:|:----------------:|:------------------:|
+|             |     |                   | **Present**  |    **Future**     |    **Imperfect**    |  **Perfect**  |     |   **Present**    |   **Imperfect**    |
+| **Active**  |     |                   |   *I hear*   |   *I will hear*   |   *I was hearing*   | *I had heard* |     |   *I may hear*   |   *I might hear*   |
+|             |     |      *1SG* I      |              |                   |                     |               |     |                  |                    |
+|             |     |   *2SG* you sg.   |              |                   |                     |               |     |                  |                    |
+|             |     | *3SG* he, she, it |              |                   |                     |               |     |                  |                    |
+|             |     |  *1PLI* we incl.  |              |                   |                     |               |     |                  |                    |
+|             |     |  *1PLE* we excl.  |              |                   |                     |               |     |                  |                    |
+|             |     |   *2PL* you pl.   |              |                   |                     |               |     |                  |                    |
+|             |     |    *3PLE* they    |              |                   |                     |               |     |                  |                    |
+|             |     |    *3PLN* they    |              |                   |                     |               |     |                  |                    |
+| **Passive** |     |                   | *I am heard* | *I will be heard* | *I was being heard* | *I was heard* |     | *I may be heard* | *I might be heard* |
+|             |     |      *1SG* I      |              |                   |                     |               |     |                  |                    |
+|             |     |   *2SG* you sg.   |              |                   |                     |               |     |                  |                    |
+|             |     | *3SG* he, she, it |              |                   |                     |               |     |                  |                    |
+|             |     |  *1PLI* we incl.  |              |                   |                     |               |     |                  |                    |
+|             |     |  *1PLE* we excl.  |              |                   |                     |               |     |                  |                    |
+|             |     |   *2PL* you pl.   |              |                   |                     |               |     |                  |                    |
+|             |     |    *3PLE* they    |              |                   |                     |               |     |                  |                    |
+|             |     |    *3PLN* they    |              |                   |                     |               |     |                  |                    |
 
 #### Words
