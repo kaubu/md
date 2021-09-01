@@ -16,7 +16,7 @@ i, u, e, a, ɒ (o), ɪ (y)
 ai [aɪ], ei [eɪ], oi [ɔɪ], au [aʊ]
 ## Grammar
 ### Nouns and Adjectives
-Nouns and Adjectives are declined using the same declensions. Base nouns should end in a vowel.
+Nouns and Adjectives are declined using the same declensions. Base nouns should end in a vowel, but they can end in some consonants (l, r).
 
 #### Declension
 ##### Cases
@@ -73,3 +73,62 @@ house - me
 great - 
 
 ### Pronouns
+Pronouns will have distinctions made between Singular, Dual, Paucal, and Plural. There will also be distinctions made between Inclusive and Exclusive 1st person plural. Pronouns are also declined differently than nouns, unless they are in the Oblique case, in which they can be further declined using the noun declension.
+
+| Person    | Declension     |    Number    |          |            |            |
+|:--------- |:-------------- |:------------:|:--------:|:----------:|:----------:|
+|           |                | **singular** | **dual** | **paucal** | **plural** |
+| **1INCL** | **Nominative** |      /       |          |            |            |
+|           | **Accusative** |      /       |          |            |            |
+|           | **Genitive**   |      /       |          |            |            |
+|           | **Dative**     |      /       |          |            |            |
+|           | **Oblique**    |      /       |          |            |            |
+|           | **Vocative**   |      /       |          |            |            |
+| **1EXCL** | **Nominative** |      um      |          |            |            |
+|           | **Accusative** |      mu      |          |            |            |
+|           | **Genitive**   |      me      |          |            |            |
+|           | **Dative**     |      mi      |          |            |            |
+|           | **Oblique**    |      me      |          |            |            |
+|           | **Vocative**   |              |          |            |            |
+| **1MAS**  | **Nominative** |              |          |            |            |
+|           | **Accusative** |              |          |            |            |
+|           | **Genitive**   |              |          |            |            |
+|           | **Dative**     |              |          |            |            |
+|           | **Oblique**    |              |          |            |            |
+|           | **Vocative**   |              |          |            |            |
+| **1FEM**  | **Nominative** |              |          |            |            |
+|           | **Accusative** |              |          |            |            |
+|           | **Genitive**   |              |          |            |            |
+|           | **Dative**     |              |          |            |            |
+|           | **Oblique**    |              |          |            |            |
+|           | **Vocative**   |              |          |            |            |
+| **2**     | **Nominative** |              |          |            |            |
+|           | **Accusative** |              |          |            |            |
+|           | **Genitive**   |              |          |            |            |
+|           | **Dative**     |              |          |            |            |
+|           | **Oblique**    |              |          |            |            |
+|           | **Vocative**   |              |          |            |            |
+| **3EPI**  | **Nominative** |              |          |            |            |
+|           | **Accusative** |              |          |            |            |
+|           | **Genitive**   |              |          |            |            |
+|           | **Dative**     |              |          |            |            |
+|           | **Oblique**    |              |          |            |            |
+|           | **Vocative**   |              |          |            |            |
+| **3NEU**  | **Nominative** |              |          |            |            |
+|           | **Accusative** |              |          |            |            |
+|           | **Genitive**   |              |          |            |            |
+|           | **Dative**     |              |          |            |            |
+|           | **Oblique**    |              |          |            |            |
+|           | **Vocative**   |              |          |            |            |
+| **3MAS**  | **Nominative** |              |          |            |            |
+|           | **Accusative** |              |          |            |            |
+|           | **Genitive**   |              |          |            |            |
+|           | **Dative**     |              |          |            |            |
+|           | **Oblique**    |              |          |            |            |
+|           | **Vocative**   |              |          |            |            |
+| **3FEM**  | **Nominative** |              |          |            |            |
+|           | **Accusative** |              |          |            |            |
+|           | **Genitive**   |              |          |            |            |
+|           | **Dative**     |              |          |            |            |
+|           | **Oblique**    |              |          |            |            |
+|           | **Vocative**   |              |          |            |            |
