@@ -102,27 +102,50 @@ Pronouns will have distinctions made between Singular, Dual, Paucal, and Plural.
 My great houses - umim alk mek (lit. 1sg-GEN great-PL house-NOM-PL)
 
 ### Verbs
+Verbs generally end in vowels.
+
 #### Conjugation
 |             |     |                   |  Indicative  |                   |                     |               |     |   Subjunctive    |                    |
 |:-----------:| --- |:-----------------:|:------------:|:-----------------:|:-------------------:|:-------------:|:---:|:----------------:|:------------------:|
 |             |     |                   | **Present**  |    **Future**     |    **Imperfect**    |  **Perfect**  |     |   **Present**    |   **Imperfect**    |
 | **Active**  |     |                   |   *I hear*   |   *I will hear*   |   *I was hearing*   | *I had heard* |     |   *I may hear*   |   *I might hear*   |
-|             |     |      *1SG* I      |              |                   |                     |               |     |                  |                    |
-|             |     |   *2SG* you sg.   |              |                   |                     |               |     |                  |                    |
-|             |     | *3SG* he, she, it |              |                   |                     |               |     |                  |                    |
-|             |     |  *1PLI* we incl.  |              |                   |                     |               |     |                  |                    |
-|             |     |  *1PLE* we excl.  |              |                   |                     |               |     |                  |                    |
-|             |     |   *2PL* you pl.   |              |                   |                     |               |     |                  |                    |
-|             |     |    *3PLE* they    |              |                   |                     |               |     |                  |                    |
-|             |     |    *3PLN* they    |              |                   |                     |               |     |                  |                    |
+|             |     |      *1SG I*      |     -ven     |       -vem        |        -ver         |     -ved      |     |       -va        |        -vu         |
+|             |     |   *2SG you sg.*   |     -len     |       -lem        |        -ler         |     -led      |     |       -la        |        -lu         |
+|             |     | *3SG he, she, it* |      -       |         -         |          -          |       -       |     |        -         |         -          |
+|             |     |  *1DUI we incl.*  |      -       |         -         |          -          |       -       |     |        -         |         -          |
+|             |     |  *1DUE we excl.*  |      -       |         -         |          -          |       -       |     |        -         |         -          |
+|             |     |   *2DU you du.*   |      -       |         -         |          -          |       -       |     |        -         |         -          |
+|             |     |    *3DUE they*    |      -       |         -         |          -          |       -       |     |        -         |         -          |
+|             |     |    *3DUN they*    |      -       |         -         |          -          |       -       |     |        -         |         -          |
+|             |     | *1PAUI we incl.*  |      -       |         -         |          -          |       -       |     |        -         |         -          |
+|             |     | *1PAUE we excl.*  |      -       |         -         |          -          |       -       |     |        -         |         -          |
+|             |     |  *2PAUL you pl.*  |      -       |         -         |          -          |       -       |     |        -         |         -          |
+|             |     |   *3PAUE they*    |      -       |         -         |          -          |       -       |     |        -         |         -          |
+|             |     |   *3PAUN they*    |      -       |         -         |          -          |       -       |     |        -         |         -          |
+|             |     |  *1PLI we incl.*  |      -       |         -         |          -          |       -       |     |        -         |         -          |
+|             |     |  *1PLE we excl.*  |      -       |         -         |          -          |       -       |     |        -         |         -          |
+|             |     |   *2PL you pl.*   |      -       |         -         |          -          |       -       |     |        -         |         -          |
+|             |     |    *3PLE they*    |      -       |         -         |          -          |       -       |     |        -         |         -          |
+|             |     |    *3PLN they*    |      -       |         -         |          -          |       -       |     |        -         |         -          |
 | **Passive** |     |                   | *I am heard* | *I will be heard* | *I was being heard* | *I was heard* |     | *I may be heard* | *I might be heard* |
-|             |     |      *1SG* I      |              |                   |                     |               |     |                  |                    |
-|             |     |   *2SG* you sg.   |              |                   |                     |               |     |                  |                    |
-|             |     | *3SG* he, she, it |              |                   |                     |               |     |                  |                    |
-|             |     |  *1PLI* we incl.  |              |                   |                     |               |     |                  |                    |
-|             |     |  *1PLE* we excl.  |              |                   |                     |               |     |                  |                    |
-|             |     |   *2PL* you pl.   |              |                   |                     |               |     |                  |                    |
-|             |     |    *3PLE* they    |              |                   |                     |               |     |                  |                    |
-|             |     |    *3PLN* they    |              |                   |                     |               |     |                  |                    |
+|             |     |      *1SG I*      |      -       |         -         |          -          |       -       |     |        -         |         -          |
+|             |     |   *2SG you sg.*   |      -       |         -         |          -          |       -       |     |        -         |         -          |
+|             |     | *3SG he, she, it* |      -       |         -         |          -          |       -       |     |        -         |         -          |
+|             |     |  *1DUI we incl.*  |      -       |         -         |          -          |       -       |     |        -         |         -          |
+|             |     |  *1DUE we excl.*  |      -       |         -         |          -          |       -       |     |        -         |         -          |
+|             |     |   *2DU you du.*   |      -       |         -         |          -          |       -       |     |        -         |         -          |
+|             |     |    *3DUE they*    |      -       |         -         |          -          |       -       |     |        -         |         -          |
+|             |     |    *3DUN they*    |      -       |         -         |          -          |       -       |     |        -         |         -          |
+|             |     | *1PAUI we incl.*  |      -       |         -         |          -          |       -       |     |        -         |         -          |
+|             |     | *1PAUE we excl.*  |      -       |         -         |          -          |       -       |     |        -         |         -          |
+|             |     |  *2PAUL you pl.*  |      -       |         -         |          -          |       -       |     |        -         |         -          |
+|             |     |   *3PAUE they*    |      -       |         -         |          -          |       -       |     |        -         |         -          |
+|             |     |   *3PAUN they*    |      -       |         -         |          -          |       -       |     |        -         |         -          |
+|             |     |  *1PLI we incl.*  |      -       |         -         |          -          |       -       |     |        -         |         -          |
+|             |     |  *1PLE we excl.*  |      -       |         -         |          -          |       -       |     |        -         |         -          |
+|             |     |   *2PL you pl.*   |      -       |         -         |          -          |       -       |     |        -         |         -          |
+|             |     |    *3PLE they*    |      -       |         -         |          -          |       -       |     |        -         |         -          |
+|             |     |    *3PLN they*    |      -       |         -         |          -          |       -       |     |        -         |         -          |
 
 #### Words
+to be - a
