@@ -65,12 +65,17 @@ Nouns and Adjectives are declined using the same declensions. Base nouns should 
 |      **Vocative**       |    -r    | -re  |  -ra   |  -ri   |
 
 #### Nouns
-person - ha
-house - me
+person - ha  
+house - me  
 
 
 #### Adjectives
-great - 
+great - al  
+
+
+#### Examples
+(the) person's house - ham me  
+(the) great person from the house - al ha mes  
 
 ### Pronouns
 Pronouns will have distinctions made between Singular, Dual, Paucal, and Plural. There will also be distinctions made between Inclusive and Exclusive 1st person plural. Pronouns are declined in the same way as nouns, but are only declined in singular, since they are already decline for Number here.
@@ -85,7 +90,7 @@ Pronouns will have distinctions made between Singular, Dual, Paucal, and Plural.
 |              |              |             |            |            |
 |              |              |             |            |            |
 |   **2FOR**   |     ale      |     ane     |    ade     |    ale     |
-|   **2INF**   |      pe      |    peno     |    pedo    |    pelo    |
+|   **2INF**   |      ve      |    veno     |    vedo    |    velo    |
 |              |              |             |            |            |
 |              |              |             |            |            |
 |   **3EPI**   |      me      |     de      |     ne     |     le     |
@@ -93,3 +98,30 @@ Pronouns will have distinctions made between Singular, Dual, Paucal, and Plural.
 |   **3MAS**   |     ame      |    adde     |    anne    |    alle    |
 |   **3FEM**   |     eme      |     ede     |    ene     |    ele     |
 
+#### Examples
+My great houses - umim alk mek (lit. 1sg-GEN great-PL house-NOM-PL)
+
+### Verbs
+#### Conjugation
+|             |     |        |  Indicative  |                   |                     |               |     |   Subjunctive    |                    |
+|:-----------:| --- |:------:|:------------:|:-----------------:|:-------------------:|:-------------:|:---:|:----------------:|:------------------:|
+|             |     |        | **Present**  |    **Future**     |    **Imperfect**    |  **Perfect**  |     |   **Present**    |   **Imperfect**    |
+| **Active**  |     |        |   *I hear*   |   *I will hear*   |   *I was hearing*   | *I had heard* |     |   *I may hear*   |   *I might hear*   |
+|             |     | *1SG*  |              |                   |                     |               |     |                  |                    |
+|             |     | *2SG*  |              |                   |                     |               |     |                  |                    |
+|             |     | *3SG*  |              |                   |                     |               |     |                  |                    |
+|             |     | *1PLI* |              |                   |                     |               |     |                  |                    |
+|             |     | *1PLE* |              |                   |                     |               |     |                  |                    |
+|             |     | *2PL*  |              |                   |                     |               |     |                  |                    |
+|             |     | *3PLE* |              |                   |                     |               |     |                  |                    |
+|             |     | *3PLN* |              |                   |                     |               |     |                  |                    |
+| **Passive** |     |        | *I am heard* | *I will be heard* | *I was being heard* | *I was heard* |     | *I may be heard* | *I might be heard* |
+|             |     | *1SG*  |              |                   |                     |               |     |                  |                    |
+|             |     | *2SG*  |              |                   |                     |               |     |                  |                    |
+|             |     | *3SG*  |              |                   |                     |               |     |                  |                    |
+|             |     | *1PLI* |              |                   |                     |               |     |                  |                    |
+|             |     | *1PLE* |              |                   |                     |               |     |                  |                    |
+|             |     | *2PL*  |              |                   |                     |               |     |                  |                    |
+|             |     | *3PL*  |              |                   |                     |               |     |                  |                    |
+
+#### Words
